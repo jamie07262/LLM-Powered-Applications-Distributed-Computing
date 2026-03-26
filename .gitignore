@@ -6,3 +6,4 @@ chroma_db/
 .venv
 .venv-local
 output/
+.env
