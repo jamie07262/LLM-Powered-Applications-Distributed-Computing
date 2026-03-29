@@ -8,8 +8,6 @@ In this assignment, I will use LLM, RAG, and Spark techniques to create an intel
 
 1. **Yellow Taxi Trip Data (January 2024):**  
    https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet
-2. **Taxi Zone Lookup Table:**  
-   https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv
 
 ## Document Corpus
 
