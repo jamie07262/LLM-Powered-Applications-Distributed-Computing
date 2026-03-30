@@ -46,6 +46,10 @@ The document corpus for this assignment consists of seven publicly available PDF
 
 This corpus provides a balanced mix of official government reports, policy and planning documents, dataset documentation, and academic research papers, making it suitable for answering both factual transportation-policy questions and broader analytical questions about NYC taxi operations, regulation, and urban mobility.
 
+## Model Used
+
+- meta-llama/llama-3.3-70b-instruct
+
 ## System Architecture
 
 The system consists of three main components:
