@@ -48,7 +48,8 @@ This corpus provides a balanced mix of official government reports, policy and p
 
 ## Model Used
 
-- meta-llama/llama-3.3-70b-instruct
+- Initially used llama3.3-70b-instruct from course site
+- Switched to meta-llama/llama-3.3-70b-instruct from OpenRouter due to credits fully used
 
 ## System Architecture
 
@@ -139,8 +140,6 @@ Run Individual Components
 
 ---
 
-Limitations
+## To Run Performance Optimization Section locally
 
-- Hybrid queries may not always fully utilize both pipelines
-- RAG responses depend on document coverage
-- SQL generation may require retries for complex queries
+- Ensure you have Hadoop Binaries and set HADOOP_HOME environment variable to enable Spark to carry out file operations
