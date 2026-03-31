@@ -9,3 +9,4 @@ output/
 .env
 .vscode\settings.json
 .vscode
+/settings.json
