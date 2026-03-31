@@ -7,3 +7,5 @@ chroma_db/
 .venv-local
 output/
 .env
+.vscode\settings.json
+.vscode
