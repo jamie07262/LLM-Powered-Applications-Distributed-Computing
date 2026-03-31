@@ -53,7 +53,7 @@ This corpus provides a balanced mix of official government reports, policy and p
 
 ## System Architecture
 
-The system consists of three main components:
+The system consists of four main components:
 
 ### 1. Query Router
 
